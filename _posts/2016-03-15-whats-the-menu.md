@@ -5,26 +5,26 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'We would love to give you list of the delicacies our team enjoys here from our kitchen, but then when would we work?'
-datePublished: '2016-03-15T19:10:15.042Z'
-dateModified: '2016-03-15T19:09:21.200Z'
+description: 'We would love to apprise you with the delicacies our team enjoys here from our kitchen, but then when would we work?'
+datePublished: '2016-03-15T19:15:28.072Z'
+dateModified: '2016-03-15T19:12:55.125Z'
 title: "What's The Menu?"
 author: []
+sourcePath: _posts/2016-03-15-whats-the-menu.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-whats-the-menu.md
-published: true
 url: whats-the-menu/index.html
 _type: Article
 
 ---
 We would love to apprise you with the delicacies our team enjoys here from our kitchen, but then when would we work?
 
-So instead of the edible we give you the deliverable. We consider ourselves to be among the best in the following domains:
+So instead of the edible we give you the deliverable. We consider ourselves to be among the best in the following domains.
 
 **Content**
 
