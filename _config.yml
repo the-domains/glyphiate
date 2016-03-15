@@ -1,0 +1,28 @@
+name: Glyphiate
+favicon: null
+layout_spectrum: 0.959028335288167
+typography_spectrum: 0.2951403735205531
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5568816598970443
+  lightness: 0.43840974965132773
+  saturation: 0.5100441568065435
+  rhythmicContrast: 0.1469164788722992
+purpose: []
