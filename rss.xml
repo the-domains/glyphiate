@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Glyphiate Into The Future]]></title>
         <description><![CDATA[Glyphiate Into The Future]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glyphiate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:10:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 19:10:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glyphiate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Glyphiate]]></title>
+            <description><![CDATA[<article><h1>About Glyphiate</h1><p>We could tell you about the founder's eccentricities, we could divulge how a certain writer got inspired by a photo at his desk and wrote the most insightful tips for working mothers, or how another one decided to take a weekend trip just to get an authentic feel for it and came up with rich and informative travelogues that almost inspired the good founder enough to close down offices and take everyone out next weekend (good sense prevailed), we could poke fun at our proofreader who we all fondly call Spelling Mistake for what the poor guy's work profile is, and we could also maybe share that time when our editor got bored and threatened to leave us because the writers did such an excellent job that he almost felt redundant. But you probably don't want to know all that. What you want to know is if we are solid, and here's our answer.</p></article>]]></description>
+            <link>https://thegrid.ai/glyphiate/about-glyphiate/index.html</link>
+            <guid isPermaLink="false">69e2e06a-2af8-4e8d-bc30-b68b0255e4ad</guid>
+            <pubDate>Tue, 15 Mar 2016 19:10:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What's The Menu?]]></title>
             <description><![CDATA[<article><h1>What's The Menu?</h1><p>We would love to apprise you with the delicacies our team enjoys here from our kitchen, but then when would we work?</p></article>]]></description>
-            <link>undefinedwhats-the-menu/index.html</link>
+            <link>https://thegrid.ai/glyphiate/whats-the-menu/index.html</link>
             <guid isPermaLink="false">391676c1-d7b4-4a89-a78d-113c7628ca51</guid>
             <pubDate>Tue, 15 Mar 2016 19:10:15 GMT</pubDate>
         </item>
